@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="baf68673-1e78-41a8-b3ee-163c66e71074" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/fig$littlemove.coverage" NAME="littlemove Coverage Results" MODIFIED="1543194770722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/little" />
+    <SUITE FILE_PATH="coverage/fig$kalman.coverage" NAME="kalman Coverage Results" MODIFIED="1545741131041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/distanceStatics" />
+    <SUITE FILE_PATH="coverage/fig$statice.coverage" NAME="statice Coverage Results" MODIFIED="1545364047472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/distanceStatics" />
+    <SUITE FILE_PATH="coverage/fig$noMovDfiTime.coverage" NAME="noMovDfiTime Coverage Results" MODIFIED="1546428114383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/drawimg/noMoving" />
+    <SUITE FILE_PATH="coverage/fig$getdata.coverage" NAME="getdata Coverage Results" MODIFIED="1546314920037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/cnn" />
+    <SUITE FILE_PATH="coverage/fig$Last_square_method_fit_curve.coverage" NAME="Last_square_method_fit_curve Coverage Results" MODIFIED="1547781635377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/filter" />
+    <SUITE FILE_PATH="coverage/fig$unrealizedDifTime.coverage" NAME="unrealizedDifTime Coverage Results" MODIFIED="1546661983128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/drawimg/unrealize" />
+    <SUITE FILE_PATH="coverage/fig$extractcharact.coverage" NAME="extractcharact Coverage Results" MODIFIED="1547121632816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/dataprocess1" />
+    <SUITE FILE_PATH="coverage/fig$weightKnn.coverage" NAME="weightKnn Coverage Results" MODIFIED="1544148624228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/KNN" />
+    <SUITE FILE_PATH="coverage/fig$evaluate.coverage" NAME="evaluate Coverage Results" MODIFIED="1546343094077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/cnn" />
+    <SUITE FILE_PATH="coverage/fig$mysvm1.coverage" NAME="mysvm1 Coverage Results" MODIFIED="1554300098892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/classifier" />
+    <SUITE FILE_PATH="coverage/fig$preunrealize.coverage" NAME="preunrealize Coverage Results" MODIFIED="1554194451675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/dataprocess1" />
+    <SUITE FILE_PATH="coverage/fig$sklearnknn.coverage" NAME="sklearnknn Coverage Results" MODIFIED="1554257362229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/classifier" />
+    <SUITE FILE_PATH="coverage/fig$hyperbola.coverage" NAME="hyperbola Coverage Results" MODIFIED="1555041363654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys" />
+    <SUITE FILE_PATH="coverage/fig$train.coverage" NAME="train Coverage Results" MODIFIED="1546426932551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/cnn" />
+    <SUITE FILE_PATH="coverage/fig$12.coverage" NAME="12 Coverage Results" MODIFIED="1544147331037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/KNN" />
+    <SUITE FILE_PATH="coverage/fig$sine_wave.coverage" NAME="sine_wave Coverage Results" MODIFIED="1547093007574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/filter/examples" />
+    <SUITE FILE_PATH="coverage/fig$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1548055594519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys" />
+    <SUITE FILE_PATH="coverage/fig$noMoving.coverage" NAME="noMoving Coverage Results" MODIFIED="1547119061732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/drawimg/noMoving" />
+    <SUITE FILE_PATH="coverage/fig$largeMove.coverage" NAME="largeMove Coverage Results" MODIFIED="1543199224008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/large" />
+    <SUITE FILE_PATH="coverage/fig$kalman1.coverage" NAME="kalman1 Coverage Results" MODIFIED="1546860480352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/distanceStatics" />
+    <SUITE FILE_PATH="coverage/fig$largeDifTime.coverage" NAME="largeDifTime Coverage Results" MODIFIED="1546427951199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/drawimg/large" />
+    <SUITE FILE_PATH="coverage/fig$mlpclassifier.coverage" NAME="mlpclassifier Coverage Results" MODIFIED="1554258003359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/classifier" />
+    <SUITE FILE_PATH="coverage/fig$sampleFilter.coverage" NAME="sampleFilter Coverage Results" MODIFIED="1547800552959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/filter" />
+    <SUITE FILE_PATH="coverage/fig$preLargeMoveData.coverage" NAME="preLargeMoveData Coverage Results" MODIFIED="1554194465403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/dataprocess1" />
+    <SUITE FILE_PATH="coverage/fig$littleDifTime.coverage" NAME="littleDifTime Coverage Results" MODIFIED="1546428030259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/drawimg/little" />
+    <SUITE FILE_PATH="coverage/fig$equalKnn.coverage" NAME="equalKnn Coverage Results" MODIFIED="1544148689343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/KNN" />
+    <SUITE FILE_PATH="coverage/fig$preLittleMoveData.coverage" NAME="preLittleMoveData Coverage Results" MODIFIED="1554284127184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/dataprocess1" />
+    <SUITE FILE_PATH="coverage/fig$preNoMovingData.coverage" NAME="preNoMovingData Coverage Results" MODIFIED="1554194435194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/dataprocess1" />
+    <SUITE FILE_PATH="coverage/fig$numpypro.coverage" NAME="numpypro Coverage Results" MODIFIED="1545788697024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/numpytest" />
+    <SUITE FILE_PATH="coverage/fig$model.coverage" NAME="model Coverage Results" MODIFIED="1546421118874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/cnn" />
+    <SUITE FILE_PATH="coverage/fig$mdraw1.coverage" NAME="mdraw1 Coverage Results" MODIFIED="1543055341853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys" />
+    <SUITE FILE_PATH="coverage/fig$test.coverage" NAME="test Coverage Results" MODIFIED="1547801704600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys" />
+    <SUITE FILE_PATH="coverage/fig$getDistance.coverage" NAME="getDistance Coverage Results" MODIFIED="1548057913642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/distanceStatics" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lys/distanceStatics/countDistanceAfterFilter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="131" lean-forward="true" selection-start-line="131" selection-end-line="131" />
+              <folding>
+                <element signature="e#20#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lys/evaluate.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lys/distanceStatics/countDistanceAfterClassifer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-267">
+              <caret line="249" column="60" lean-forward="true" selection-start-line="249" selection-start-column="60" selection-end-line="249" selection-end-column="60" />
+              <folding>
+                <element signature="e#14#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>clf = MLPClassifier(solver='lbfgs', alpha=1e-5, hidden_layer_sizes=(14,), random_state=1, max_iter=100)</find>
+      <find>draw4(&quot;计算值与真实值&quot;, kf, value, &quot;卡尔曼滤波&quot;)</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lys/drawimg/read.txt" />
+        <option value="$PROJECT_DIR$/lys/dataprocess1/read.txt" />
+        <option value="$PROJECT_DIR$/lys/distanceStatics/normal.py" />
+        <option value="$PROJECT_DIR$/lys/mysvm/mysvm1.py" />
+        <option value="$PROJECT_DIR$/lys/mysvm/mlpclassifier.py" />
+        <option value="$PROJECT_DIR$/lys/KNN/sklearnknn.py" />
+        <option value="$PROJECT_DIR$/lys/mysvm/cnnTemsorflow.py" />
+        <option value="$PROJECT_DIR$/lys/cnn/cnnTemsorflow.py" />
+        <option value="$PROJECT_DIR$/lys/cnn/getdata.py" />
+        <option value="$PROJECT_DIR$/lys/cnn/evaluate.py" />
+        <option value="$PROJECT_DIR$/lys/cnn/model.py" />
+        <option value="$PROJECT_DIR$/lys/cnn/train.py" />
+        <option value="$PROJECT_DIR$/lys/distanceStatics/kalman1.py" />
+        <option value="$PROJECT_DIR$/lys/filter/example1/kalman1.py" />
+        <option value="$PROJECT_DIR$/lys/distanceStatics/Movingaverage.py" />
+        <option value="$PROJECT_DIR$/lys/distanceStatics/movinGaverage.py" />
+        <option value="$PROJECT_DIR$/lys/distanceStatics/movinAverage.py" />
+        <option value="$PROJECT_DIR$/lys/filter/examples/tfkalman/filters.py" />
+        <option value="$PROJECT_DIR$/lys/filter/examples/__init__.py" />
+        <option value="$PROJECT_DIR$/lys/filter/Last_square_method_fit_curve.py" />
+        <option value="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/neighbors/classification.py" />
+        <option value="$PROJECT_DIR$/lys/dataprocess1/test.py" />
+        <option value="$PROJECT_DIR$/lys/test.py" />
+        <option value="$PROJECT_DIR$/lys/test2.py" />
+        <option value="$PROJECT_DIR$/lys/drawimg/noMoving/noMoving.py" />
+        <option value="$PROJECT_DIR$/lys/drawimg/little/littlemove.py" />
+        <option value="$PROJECT_DIR$/lys/distanceStatics/distanceOfSeqence.py" />
+        <option value="$PROJECT_DIR$/lys/distanceStatics/distanceOfSeqenceClass.py" />
+        <option value="$PROJECT_DIR$/lys/distanceStatics/getDistance.py" />
+        <option value="$PROJECT_DIR$/lys/123.py" />
+        <option value="$PROJECT_DIR$/lys/filter/sampleFilter.py" />
+        <option value="$PROJECT_DIR$/lys/filter/examples/sine_wave.py" />
+        <option value="$PROJECT_DIR$/lys/drawimg/large/largeMove.py" />
+        <option value="$PROJECT_DIR$/lys/dataprocess1/extractcharact.py" />
+        <option value="$PROJECT_DIR$/lys/hyperbola.py" />
+        <option value="$PROJECT_DIR$/lys/dataprocess1/preLittleMoveData.py" />
+        <option value="$PROJECT_DIR$/lys/dataprocess1/preunrealize.py" />
+        <option value="$PROJECT_DIR$/lys/dataprocess1/preNoMovingData.py" />
+        <option value="$PROJECT_DIR$/lys/dataprocess1/preLargeMoveData.py" />
+        <option value="$PROJECT_DIR$/lys/classifier/sklearnknn.py" />
+        <option value="$PROJECT_DIR$/lys/classifier/mysvm1.py" />
+        <option value="$PROJECT_DIR$/lys/classifier/mlpclassifier.py" />
+        <option value="$PROJECT_DIR$/lys/drawimg/resultOfClassifier.py" />
+        <option value="$PROJECT_DIR$/lys/drawimg/unrealize/unrealizedDifTime.py" />
+        <option value="$PROJECT_DIR$/lys/drawimg/noMoving/noMovDfiTime.py" />
+        <option value="$PROJECT_DIR$/lys/drawimg/little/littleDifTime.py" />
+        <option value="$PROJECT_DIR$/lys/drawimg/large/largeDifTime.py" />
+        <option value="$PROJECT_DIR$/lys/distanceStatics/countDistanceAfterFilter.py" />
+        <option value="$PROJECT_DIR$/lys/distanceStatics/directCountDistance.py" />
+        <option value="$PROJECT_DIR$/lys/distanceStatics/countDistanceAfterClassifer.py" />
+        <option value="$PROJECT_DIR$/lys/evaluate.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="88" />
+    <option name="y" value="107" />
+    <option name="width" value="1455" />
+    <option name="height" value="958" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <showMembers ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="fig" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fig" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="fig" type="cbb8eebc:String" user="fig" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="fig" type="cbb8eebc:String" user="fig" />
+              <item name="lys" type="cbb8eebc:String" user="lys" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="fig" type="cbb8eebc:String" user="fig" />
+              <item name="lys" type="cbb8eebc:String" user="lys" />
+              <item name="cnn" type="cbb8eebc:String" user="cnn" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="fig" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="E:\PycharmProjects\fig" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="fig" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="E:\PycharmProjects\fig" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="lys" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="fig" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="E:\PycharmProjects\fig" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="lys" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="classifier" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="fig" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="E:\PycharmProjects\fig" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="lys" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="distanceStatics" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ToolWindowSciView.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/datacollect/picture/experiment/distance" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="fig" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="fig" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PycharmProjects\fig\lys\filter" />
+      <recent name="E:\PycharmProjects\fig\lys\classifier" />
+      <recent name="E:\PycharmProjects\fig\lys" />
+      <recent name="E:\PycharmProjects\fig\lys\mysvm" />
+      <recent name="E:\PycharmProjects\fig\lys\cnn" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\PycharmProjects\fig\lys\filter" />
+      <recent name="E:\PycharmProjects\fig\lys\distanceStatics\kalman" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.countDistanceAfterFilter">
+    <configuration name="countDistanceAfterClassifer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="fig" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lys/distanceStatics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lys/distanceStatics/countDistanceAfterClassifer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="countDistanceAfterFilter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="fig" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lys/distanceStatics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lys/distanceStatics/countDistanceAfterFilter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="directCountDistance" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="fig" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lys/distanceStatics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lys/distanceStatics/directCountDistance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="largeDifTime" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="fig" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lys/drawimg/large" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lys/drawimg/large/largeDifTime.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="littleDifTime" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="fig" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lys/drawimg/little" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lys/drawimg/little/littleDifTime.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.countDistanceAfterFilter" />
+      <item itemvalue="Python.littleDifTime" />
+      <item itemvalue="Python.largeDifTime" />
+      <item itemvalue="Python.directCountDistance" />
+      <item itemvalue="Python.countDistanceAfterClassifer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.countDistanceAfterFilter" />
+        <item itemvalue="Python.countDistanceAfterClassifer" />
+        <item itemvalue="Python.directCountDistance" />
+        <item itemvalue="Python.largeDifTime" />
+        <item itemvalue="Python.littleDifTime" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="baf68673-1e78-41a8-b3ee-163c66e71074" name="Default" comment="" />
+      <created>1542972365583</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542972365583</updated>
+      <workItem from="1555325869317" duration="10257000" />
+      <workItem from="1555375580632" duration="22717000" />
+      <workItem from="1555463265204" duration="8415000" />
+      <workItem from="1555483678377" duration="2455000" />
+      <workItem from="1555504493854" duration="5884000" />
+      <workItem from="1555549031681" duration="8669000" />
+      <workItem from="1555571357712" duration="21535000" />
+      <workItem from="1555637452673" duration="5326000" />
+      <workItem from="1556421507674" duration="18158000" />
+      <workItem from="1556520353102" duration="23493000" />
+      <workItem from="1556588029508" duration="18474000" />
+      <workItem from="1558316732055" duration="948000" />
+      <workItem from="1558577927699" duration="5533000" />
+      <workItem from="1558665844197" duration="4214000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="156078000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21983914" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info x="356" y="328" width="883" height="589" id="SciView" maximized="true" order="3" type="WINDOWED" weight="0.3304721" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4953083" weight="0.85065883" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5329429" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3290398" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3407494" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50469166" side_tool="true" weight="0.41288432" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32796487" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="right" x="0" y="0" width="434" height="848" id="Documentation" order="0" visible="true" weight="0.0" />
+      <window_info anchor="right" id="Coverage" order="1" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="2" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lys/classifier/cnn/getdata.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lys/filter/sampleFilter.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/fig$extractcharact.coverage" NAME="extractcharact Coverage Results" MODIFIED="1556451294241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/dataprocess1" />
+    <SUITE FILE_PATH="coverage/fig$preLittleMoveData.coverage" NAME="preLittleMoveData Coverage Results" MODIFIED="1556538926600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/dataprocess1" />
+    <SUITE FILE_PATH="coverage/fig$countDistanceAfterClassifer.coverage" NAME="countDistanceAfterClassifer Coverage Results" MODIFIED="1558668920369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/distanceStatics" />
+    <SUITE FILE_PATH="coverage/fig$123.coverage" NAME="123 Coverage Results" MODIFIED="1555508942446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys" />
+    <SUITE FILE_PATH="coverage/fig$unrealizedDifTime.coverage" NAME="unrealizedDifTime Coverage Results" MODIFIED="1558582335291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/drawimg/unrealize" />
+    <SUITE FILE_PATH="coverage/fig$sine_wave.coverage" NAME="sine_wave Coverage Results" MODIFIED="1555572083867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/filter/examples" />
+    <SUITE FILE_PATH="coverage/fig$mysvm1.coverage" NAME="mysvm1 Coverage Results" MODIFIED="1556591317299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/classifier" />
+    <SUITE FILE_PATH="coverage/fig$countDistanceAfterFilter.coverage" NAME="countDistanceAfterFilter Coverage Results" MODIFIED="1558669177002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/distanceStatics" />
+    <SUITE FILE_PATH="coverage/fig$distanceOfSeqenceClass.coverage" NAME="distanceOfSeqenceClass Coverage Results" MODIFIED="1555417123458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/distanceStatics" />
+    <SUITE FILE_PATH="coverage/fig$preNoMovingData.coverage" NAME="preNoMovingData Coverage Results" MODIFIED="1556539325851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/dataprocess1" />
+    <SUITE FILE_PATH="coverage/fig$littleDifTime.coverage" NAME="littleDifTime Coverage Results" MODIFIED="1558583088455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/drawimg/little" />
+    <SUITE FILE_PATH="coverage/fig$preLargeMoveData.coverage" NAME="preLargeMoveData Coverage Results" MODIFIED="1556538931339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/dataprocess1" />
+    <SUITE FILE_PATH="coverage/fig$resultOfClassifier.coverage" NAME="resultOfClassifier Coverage Results" MODIFIED="1556596851756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/drawimg" />
+    <SUITE FILE_PATH="coverage/fig$hyperbola.coverage" NAME="hyperbola Coverage Results" MODIFIED="1556534912289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys" />
+    <SUITE FILE_PATH="coverage/fig$sklearnknn.coverage" NAME="sklearnknn Coverage Results" MODIFIED="1556590419123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/classifier" />
+    <SUITE FILE_PATH="coverage/fig$mlpclassifier.coverage" NAME="mlpclassifier Coverage Results" MODIFIED="1556592360887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/classifier" />
+    <SUITE FILE_PATH="coverage/fig$noMovDfiTime.coverage" NAME="noMovDfiTime Coverage Results" MODIFIED="1558582688905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/drawimg/noMoving" />
+    <SUITE FILE_PATH="coverage/fig$directCountDistance.coverage" NAME="directCountDistance Coverage Results" MODIFIED="1558668463549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/distanceStatics" />
+    <SUITE FILE_PATH="coverage/fig$preunrealize.coverage" NAME="preunrealize Coverage Results" MODIFIED="1556538917724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/dataprocess1" />
+    <SUITE FILE_PATH="coverage/fig$largeDifTime.coverage" NAME="largeDifTime Coverage Results" MODIFIED="1558583476575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/drawimg/large" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/sklearn/base.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/sklearn/svm/base.py" />
+    <entry file="file://$PROJECT_DIR$/lys/filter/examples/tfkalman/filters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-911">
+          <caret line="49" column="46" lean-forward="true" selection-start-line="49" selection-start-column="46" selection-end-line="49" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/filter/examples/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/npyio.py" />
+    <entry file="file://$PROJECT_DIR$/lys/filter/Last_square_method_fit_curve.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/polynomial.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/minpack.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/sklearn/neighbors/classification.py" />
+    <entry file="file://$PROJECT_DIR$/lys/drawimg/little/littlemove.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="70" column="20" lean-forward="true" selection-start-line="70" selection-start-column="20" selection-end-line="70" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/dataprocess1/test.py" />
+    <entry file="file://$PROJECT_DIR$/../hello/venv/Lib/site-packages/sklearn/neighbors/classification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="45" column="67" lean-forward="true" selection-start-line="45" selection-start-column="67" selection-end-line="45" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hello/venv/Lib/site-packages/matplotlib/backend_bases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="1947" selection-start-line="1947" selection-end-line="1947" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hello/venv/Lib/site-packages/sklearn/svm/classes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="451" column="74" selection-start-line="451" selection-start-column="63" selection-end-line="451" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/filter/p2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/filter/example1/kalman1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="899">
+          <caret line="62" column="32" selection-start-line="62" selection-start-column="31" selection-end-line="62" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/filter/movinAverage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hello/venv/Lib/site-packages/scipy/optimize/minpack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-317">
+          <caret line="265" column="4" selection-start-line="265" selection-start-column="4" selection-end-line="265" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/distanceStatics/distanceOfSeqenceClass.py" />
+    <entry file="file://$PROJECT_DIR$/lys/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-242">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/123.py" />
+    <entry file="file://$PROJECT_DIR$/lys/filter/sampleFilter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/filter/examples/sine_wave.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="57" column="28" lean-forward="true" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
+          <folding>
+            <element signature="e#552#570#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python37/Lib/_strptime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="323" selection-start-line="323" selection-end-line="323" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hello/venv/Lib/site-packages/sklearn/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="264" column="8" selection-start-line="264" selection-start-column="8" selection-end-line="264" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hello/venv/Lib/site-packages/sklearn/metrics/classification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-686">
+          <caret line="186" column="43" selection-start-line="186" selection-start-column="37" selection-end-line="186" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/drawimg/large/largeMove.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66">
+          <caret line="42" column="11" lean-forward="true" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/hyperbola.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python37/Lib/_bootlocale.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/dataprocess1/read.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/dataprocess1/preLargeMoveData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/dataprocess1/preLittleMoveData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/dataprocess1/preunrealize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/dataprocess1/preNoMovingData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/dataprocess1/extractcharact.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="127" column="4" selection-start-line="127" selection-start-column="4" selection-end-line="127" selection-end-column="4" />
+          <folding>
+            <element signature="e#98#113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hello/venv/Lib/site-packages/sklearn/metrics/ranking.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="396" selection-start-line="396" selection-end-line="396" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/classifier/sklearnknn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="152" column="28" lean-forward="true" selection-start-line="152" selection-start-column="28" selection-end-line="152" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+            <element signature="e#776#1763#0" />
+            <element signature="e#1814#3121#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/classifier/mysvm1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-134">
+          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/classifier/mlpclassifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="110" column="19" lean-forward="true" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+          <folding>
+            <element signature="e#18#36#0" expanded="true" />
+            <element signature="e#923#1998#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/drawimg/resultOfClassifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/drawimg/noMoving/noMoving.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="79" column="17" lean-forward="true" selection-start-line="79" selection-start-column="17" selection-end-line="79" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/drawimg/large/largeDifTime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-82">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/drawimg/little/littleDifTime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="45" column="42" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/drawimg/unrealize/unrealizedDifTime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="28" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/drawimg/noMoving/noMovDfiTime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/distanceStatics/getDistance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="121" column="7" lean-forward="true" selection-start-line="121" selection-start-column="7" selection-end-line="125" selection-end-column="43" />
+          <folding>
+            <element signature="e#1217#1545#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/distanceStatics/directCountDistance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/distanceStatics/countDistanceAfterClassifer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-267">
+          <caret line="249" column="60" lean-forward="true" selection-start-line="249" selection-start-column="60" selection-end-line="249" selection-end-column="60" />
+          <folding>
+            <element signature="e#14#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/evaluate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/distanceStatics/countDistanceAfterFilter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="131" lean-forward="true" selection-start-line="131" selection-end-line="131" />
+          <folding>
+            <element signature="e#20#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
