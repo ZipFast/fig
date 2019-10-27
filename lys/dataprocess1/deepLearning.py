@@ -1,5 +1,7 @@
 import os
-
+import datetime 
+import numpy as np 
+import math
 
 ##文件数据行为: x   y   z  time     ；表示一个坐标点的三个坐标分量和 采集时间 ，使用空格符分隔
 
@@ -12,7 +14,7 @@ def pre(source, distance, diantance1):
         else:
             s = s[:-1]
             tem = s.split()
-            re = tem[1].split(':')[1] + "\t" + tem[2].split(':')[1] + "\t" + tem[3].split(':')[1] + "\n" 
+            re = tem[1].split(':')[1] + "\t" + tem[2].split(':')[1] + "\t" + tem[3].split(':')[1] + "\t" + tem[-2] + "\t" + tem[-1] + "\n"
             # if tem[0] != "2068":
             #     fwrit1.write(re)
             # else:
@@ -27,6 +29,48 @@ def file_name(file_dir, target, target1):
     for p in path:
         if not os.path.isdir(p):
             pre(p, target, target1)
+
+def split_data(splot):
+    """
+    按照plot划分时间段
+    """
+    state = "D:\\fig\\data\\pre2068Static.txt"
+    unrealize = "D:\\fig\\data\\pre2068Unrealize.txt"
+    Sactive = "D:\\fig\\data\\pre2068Little.txt"
+    Mactive = "D:\\fig\\data\\pre2068LargeMove.txt"
+    files = [state, unrealize, Sactive, Mactive]
+    mask = [1., 2., 3., 4.]
+    splotre = []
+    lable = [] 
+    for index, file in enumerate(files):
+        f = open(file, "r")
+        mk = mask[index]
+
+        flag = False 
+        start = ''
+        obj = [] 
+        for s in f.readlines():
+            if len(s) <= 1:
+                continue
+            else:
+                
+                s = s[:-1]
+                seq = s.split("\t")
+                if flag == False :
+                    #本数据序列第一点的采集时间
+                    start = seq[3] + "\t" + seq[4]
+                    flag = True 
+                # 当前点的采集时间
+                now = seq[3] + "\t" + seq[4]
+                subt = (datetime.datetime.strptime(now, "%Y-%m-%d %H:%M:%S") - datetime.datetime.strptime(start, "%Y-%m-%d %H:%M:%S")).seconds
+                obj.append(seq[:3]) 
+            if subt > splot:
+                splotre.append(obj)
+                lable.append(index+1)
+                obj.clear() 
+                flag = False
+    splotre = np.asarray(splotre)
+    return splotre
 
 
 if __name__ == '__main__':
@@ -56,5 +100,11 @@ if __name__ == '__main__':
     t = "D:\\fig\\data\\pre2068Unrealize.txt"  # 卡2068对应的数据，处理结果
     t1 = "D:\\fig\\data\\preUnrealize.txt"  # 其他卡的处理结果径
     file_name(p, t, t1)
+    splotre = split_data(10)
+    print(splotre.shape[0])
+    writer = open("D:\\fig\\data\\splot_data.txt", "a")
+    writer.write(splotre)
+
+    
 
 
