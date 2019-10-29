@@ -58,52 +58,47 @@ def split_data(splot):
                 seq = s.split("\t")
                 if flag == False :
                     #本数据序列第一点的采集时间
-                    start = seq[3] + "\t" + seq[4]
+                    start = 0
+                    now = 0
                     flag = True 
                 # 当前点的采集时间
-                now = seq[3] + "\t" + seq[4]
-                subt = (datetime.datetime.strptime(now, "%Y-%m-%d %H:%M:%S") - datetime.datetime.strptime(start, "%Y-%m-%d %H:%M:%S")).seconds
-                obj.append(seq[:3]) 
+                now = now + 1
+                subt = now - start 
+                obj.append(np.asarray(seq[:3],dtype='float64'))
             if subt > splot:
-                splotre.append(obj)
-                lable.append(index+1)
+                splotre.append(np.asarray(obj))
+                lable.append(mk)
                 obj.clear() 
                 flag = False
     splotre = np.asarray(splotre)
-    return splotre
+    lable = np.asarray(lable)
+    return splotre, lable
+# 大幅度运动 原始数据源
+p = "E:\\datacollect\\trian\\active"
+# 数据预处理结果保存路径
+t = "D:\\fig\\data\\pre2068LargeMove.txt"  # 卡2068对应的数据，处理结果
+t1 = "D:\\fig\\data\\preLargeMove.txt"  # 其他卡的处理结果
 
+file_name(p, t, t1)
+p = "E:\\datacollect\\trian\\little"  # 原始数据源
 
-if __name__ == '__main__':
-    # 大幅度运动 原始数据源
-    p = "E:\\datacollect\\trian\\active"
-    # 数据预处理结果保存路径
-    t = "D:\\fig\\data\\pre2068LargeMove.txt"  # 卡2068对应的数据，处理结果
-    t1 = "D:\\fig\\data\\preLargeMove.txt"  # 其他卡的处理结果
+# 数据预处理结果保存路径
+t = "D:\\fig\\data\\pre2068Little.txt"  # 卡2068对应的数据，处理结果
+t1 = "D:\\fig\\data\\preLittle.txt"  # 其他卡的处理结果
 
-    file_name(p, t, t1)
-    p = "E:\\datacollect\\trian\\little"  # 原始数据源
+file_name(p, t, t1)
+p = "E:\\datacollect\\trian\\static"  # 原始数据源
 
-    # 数据预处理结果保存路径
-    t = "D:\\fig\\data\\pre2068Little.txt"  # 卡2068对应的数据，处理结果
-    t1 = "D:\\fig\\data\\preLittle.txt"  # 其他卡的处理结果
-
-    file_name(p, t, t1)
-    p = "E:\\datacollect\\trian\\static"  # 原始数据源
-
-    # 数据预处理结果保存路径
-    t = "D:\\fig\\data\\pre2068Static.txt"  # 卡2068对应的数据，处理结果
-    t1 = "D:\\fig\\data\\preStatic.txt"  # 其他卡的处理结果
-    file_name(p, t, t1)
-    # 无意识运动，如转身，手摆动
-    p = "E:\\datacollect\\trian\\unrealize"  # 原始数据源
-    # 数据预处理结果保存路径
-    t = "D:\\fig\\data\\pre2068Unrealize.txt"  # 卡2068对应的数据，处理结果
-    t1 = "D:\\fig\\data\\preUnrealize.txt"  # 其他卡的处理结果径
-    file_name(p, t, t1)
-    splotre = split_data(10)
-    print(splotre.shape[0])
-    writer = open("D:\\fig\\data\\splot_data.txt", "a")
-    writer.write(splotre)
+# 数据预处理结果保存路径
+t = "D:\\fig\\data\\pre2068Static.txt"  # 卡2068对应的数据，处理结果
+t1 = "D:\\fig\\data\\preStatic.txt"  # 其他卡的处理结果
+file_name(p, t, t1)
+# 无意识运动，如转身，手摆动
+p = "E:\\datacollect\\trian\\unrealize"  # 原始数据源
+# 数据预处理结果保存路径
+t = "D:\\fig\\data\\pre2068Unrealize.txt"  # 卡2068对应的数据，处理结果
+t1 = "D:\\fig\\data\\preUnrealize.txt"  # 其他卡的处理结果径
+file_name(p, t, t1)
 
     
 
