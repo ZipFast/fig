@@ -32,9 +32,9 @@ def file_name(file_dir, target, target1):
 
 if __name__ == '__main__':
     # 静止
-    p = "E:\\datacollect\\trian\\static"  # 原始数据源
+    p = "D:\\项目\\廖煜胜-论文\\论文\\数据与程序\\datacollect\\trian\\static"  # 原始数据源
 
     # 数据预处理结果保存路径
-    t = "E:\\datacollect\\pre\\pre2068.txt"  # 保存2068标签数据
-    t1 = "E:\\datacollect\\pre\\pre.txt"  # 其他卡路径
+    t = "D:\\项目\\廖煜胜-论文\\论文\\数据与程序\\datacollect\\pre\\pre2068.txt"  # 保存2068标签数据
+    t1 = "D:\\项目\\廖煜胜-论文\\论文\\数据与程序\\datacollect\\pre\\pre.txt"  # 其他卡路径
     file_name(p, t, t1)

@@ -137,7 +137,7 @@ def MovingAverage(seq):
 
 # 误差曲线图
 def main(slot, other=15):
-    dirPath = "E:\\datacollect\\test\\data"
+    dirPath = "D:\\项目\\廖煜胜-论文\\论文\\数据与程序\\datacollect\\test\\data"
     path = [dirPath + '\\' + x for x in os.listdir(dirPath)]
 
     # 分类其模型
@@ -191,7 +191,7 @@ def deal(index, seq):
 # value:真实值
 # 使用三种方法分别处理除静止之外的数据
 def main1(value, slot, other=15):
-    dirPath = "E:\\datacollect\\test\\data"
+    dirPath = "D:\\项目\\廖煜胜-论文\\论文\\数据与程序\\datacollect\\test\\data"
     path = [dirPath + '\\' + x for x in os.listdir(dirPath)]
 
     # 分类其模型
@@ -267,7 +267,7 @@ def draw2(title, knn_measure, svm_measure, mlp_measure, trueValue):
 # value:真实值
 # 使用三种方法分别处理除静止之外的数据
 def main2(index, slot, other=15):
-    dirPath = "E:\\datacollect\\test\\data"
+    dirPath = "D:\\项目\\廖煜胜-论文\\论文\\数据与程序\\datacollect\\test\\data"
     path = [dirPath + '\\' + x for x in os.listdir(dirPath)]
 
     classfilter = ""
@@ -326,7 +326,7 @@ def SD(measure, value):
 
 
 if __name__ == "__main__":
-    path = "E:\\datacollect\\test\\truevalue.txt"
+    path = "D:\\项目\\廖煜胜-论文\\论文\\数据与程序\\datacollect\\test\\truevalue.txt"
     value = getvalue(path)  # 真值
     knn_measure = main2(1, 35, other=15)
     svm_measure = main2(2, 35, other=15)

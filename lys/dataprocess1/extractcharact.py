@@ -17,10 +17,10 @@ np.set_printoptions(suppress=True)  # 去除科学计数法
 # 返回一个二维数组（每行表示一个序列的特征向量）和一个一位数组（类别）
 def normData(splot):
     # 数据源
-    state = "E:\\datacollect\\pre\\pre2068.txt"  # (静止)
-    unrealize = "E:\\datacollect\\pre\\pre2068unrealize.txt"  # 运动
-    Sactive = "E:\\datacollect\\pre\\pre2068movelittle.txt"  # 小范围运动
-    Mactive = "E:\\datacollect\\pre\\pre2068active.txt"  # 运动
+    state = "D:\\项目\\廖煜胜-论文\\论文\\数据与程序\\datacollect\\pre\\pre2068.txt"  # (静止)
+    unrealize = "D:\\项目\\廖煜胜-论文\\论文\\数据与程序\\datacollect\\pre\\pre2068unrealize.txt"  # 运动
+    Sactive = "D:\\项目\\廖煜胜-论文\\论文\\数据与程序\\datacollect\\pre\\pre2068movelittle.txt"  # 小范围运动
+    Mactive = "D:\\项目\\廖煜胜-论文\\论文\\数据与程序\\datacollect\\pre\\pre2068active.txt"  # 运动
 
     files = [state, unrealize, Sactive, Mactive]
     mask = [1.0, 2.0, 3.0, 4.0]  # 1.0表示静止，2.0表示无意识动，3.0表示小动，4.0表示动
