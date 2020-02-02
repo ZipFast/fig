@@ -6,7 +6,7 @@ def getMae(mearsure, value):
     sum = 0.0
 
     for i in range(len(value)):
-        sum += float(mearsure[i]) - float(value[i])
+        sum += abs(float(mearsure[i]) - float(value[i]))
 
     n = len(value)
     sum = sum / n
@@ -18,7 +18,7 @@ def getMae(mearsure, value):
 def Mape(mearsure, value):
     sum = 0.0
     for i in range(1,len(value)):
-        sum += (float(mearsure[i]) - float(value[i])) / float(value[i])
+        sum += abs((float(mearsure[i]) - float(value[i])) / float(value[i]))
     n = len(value)-1
     sum = sum / n
     print("平均相对误差：" + str(sum))

@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="696b7e87-3e09-4511-916d-df5f73a7325e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/fig.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/fig.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.ipynb_checkpoints/Untitled2-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../.ipynb_checkpoints/Untitled2-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/lys.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lys.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classifier/deeplearningTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/classifier/deeplearningTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distanceStatics/countDistanceAfterFilter.py" beforeDir="false" afterPath="$PROJECT_DIR$/distanceStatics/countDistanceAfterFilter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/evaluate.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../picture/1d-cnn.png" beforeDir="false" afterPath="$PROJECT_DIR$/../picture/1d-cnn.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testForSplot _10.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../testForSplot _10.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testForSplot.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../testForSplot.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,32 +24,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/classifier/mysvm1.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/drawimg/large/largeDifTime.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-297">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="297">
+              <caret line="27" column="27" selection-start-line="27" selection-start-column="4" selection-end-line="28" selection-end-column="62" />
               <folding>
-                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#0#31#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/classifier/deeplearningTest.py">
+        <entry file="file://$PROJECT_DIR$/drawimg/large/largeMove.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            <state relative-caret-position="1617">
+              <caret line="50" column="10" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/classifier/mlpclassifier.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="109" column="6" lean-forward="true" selection-start-line="109" selection-start-column="6" selection-end-line="109" selection-end-column="6" />
+            <state relative-caret-position="3597">
+              <caret line="109" column="6" selection-start-line="109" selection-start-column="6" selection-end-line="109" selection-end-column="6" />
               <folding>
                 <element signature="e#18#36#0" expanded="true" />
               </folding>
@@ -48,13 +62,29 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/distanceStatics/countDistanceAfterClassifer.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="21" lean-forward="true" selection-end-line="347" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/distanceStatics/countDistanceAfterFilter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1584">
+              <caret line="141" column="32" lean-forward="true" selection-start-line="141" selection-start-column="32" selection-end-line="141" selection-end-column="32" />
+              <folding>
+                <element signature="e#20#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dataprocess1/preLargeMoveData.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
+            <state relative-caret-position="627">
               <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
             </state>
           </provider>
@@ -73,7 +103,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/drawimg/resultOfClassifier.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
+            <state relative-caret-position="297">
               <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
             </state>
           </provider>
@@ -106,12 +136,14 @@
         <option value="$PROJECT_DIR$/dataprocess1/extractcharact1.py" />
         <option value="$PROJECT_DIR$/classifier/deeplearning.py" />
         <option value="$PROJECT_DIR$/classifier/deeplearningTest.py" />
+        <option value="$PROJECT_DIR$/evaluate.py" />
+        <option value="$PROJECT_DIR$/distanceStatics/countDistanceAfterFilter.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="753" />
-    <option name="y" value="37" />
+    <option name="x" value="751" />
+    <option name="y" value="35" />
     <option name="width" value="1750" />
     <option name="height" value="980" />
   </component>
@@ -121,7 +153,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -149,14 +180,22 @@
               <item name="lys" type="462c0819:PsiDirectoryNode" />
               <item name="drawimg" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="lys" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lys" type="462c0819:PsiDirectoryNode" />
+              <item name="drawimg" type="462c0819:PsiDirectoryNode" />
+              <item name="large" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -170,7 +209,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.deeplearningTest">
+  <component name="RunManager" selected="Python.countDistanceAfterFilter">
+    <configuration name="countDistanceAfterClassifer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lys" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/distanceStatics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/distanceStatics/countDistanceAfterClassifer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="countDistanceAfterFilter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lys" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/distanceStatics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/distanceStatics/countDistanceAfterFilter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="deeplearningTest" type="PythonConfigurationType" factoryName="Python">
       <module name="lys" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -255,40 +336,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="unrealizedDifTime" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="lys" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/drawimg/unrealize" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/drawimg/unrealize/unrealizedDifTime.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.deeplearningTest" />
       <item itemvalue="Python.mlpclassifier" />
       <item itemvalue="Python.test2" />
       <item itemvalue="Python.test" />
-      <item itemvalue="Python.unrealizedDifTime" />
+      <item itemvalue="Python.countDistanceAfterClassifer" />
+      <item itemvalue="Python.countDistanceAfterFilter" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.countDistanceAfterFilter" />
+        <item itemvalue="Python.countDistanceAfterClassifer" />
         <item itemvalue="Python.mlpclassifier" />
         <item itemvalue="Python.test2" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.unrealizedDifTime" />
       </list>
     </recent_temporary>
   </component>
@@ -306,14 +368,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20179136" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2014531" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -328,9 +390,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/distanceStatics/countDistanceAfterFilter.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/distanceStatics/getDistance.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -358,9 +417,6 @@
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/evaluate.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -418,12 +474,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/distanceStatics/countDistanceAfterClassifer.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/classifier/mysvm1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classifier/deeplearningTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/evaluate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drawimg/large/largeMove.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1617">
+          <caret line="50" column="10" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dataprocess1/preLargeMoveData.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
+        <state relative-caret-position="627">
           <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
         </state>
       </provider>
@@ -436,7 +523,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/drawimg/resultOfClassifier.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
+        <state relative-caret-position="297">
           <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
         </state>
       </provider>
@@ -444,29 +531,39 @@
     <entry file="file://$PROJECT_DIR$/dataprocess1/read.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/classifier/deeplearningTest.py">
+    <entry file="file://$PROJECT_DIR$/distanceStatics/countDistanceAfterFilter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        <state relative-caret-position="1584">
+          <caret line="141" column="32" lean-forward="true" selection-start-line="141" selection-start-column="32" selection-end-line="141" selection-end-column="32" />
+          <folding>
+            <element signature="e#20#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drawimg/large/largeDifTime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="4" selection-end-line="28" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distanceStatics/countDistanceAfterClassifer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="21" lean-forward="true" selection-end-line="347" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/classifier/mlpclassifier.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="109" column="6" lean-forward="true" selection-start-line="109" selection-start-column="6" selection-end-line="109" selection-end-column="6" />
+        <state relative-caret-position="3597">
+          <caret line="109" column="6" selection-start-line="109" selection-start-column="6" selection-end-line="109" selection-end-column="6" />
           <folding>
             <element signature="e#18#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classifier/mysvm1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-297">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -135,10 +135,10 @@ def getvalue(path):
 
 
 if __name__ == "__main__":
-    dirPath = "E:\\datacollect\\test\\data"
+    dirPath = "D:\\项目\\廖煜胜-论文\\论文\\数据与程序\\datacollect\\test\\data"
     kf, least, avgWin = count(dirPath)  # 计算值
 
-    path = "E:\\datacollect\\test\\truevalue.txt"
+    path = "D:\\项目\\廖煜胜-论文\\论文\\数据与程序\\datacollect\\test\\truevalue.txt"
     value = getvalue(path)  # 真值
 
     print("卡尔曼")
