@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="baf68673-1e78-41a8-b3ee-163c66e71074" name="Default" comment="" />
+    <list default="true" id="baf68673-1e78-41a8-b3ee-163c66e71074" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/fig.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fig.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled2-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled2-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lys/dataprocess1/extractcharact.py" beforeDir="false" afterPath="$PROJECT_DIR$/lys/dataprocess1/extractcharact.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lys/dataprocess1/extractcharact1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lys/dataprocess1/extractcharact1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lys/dataprocess1/preLargeMoveData.py" beforeDir="false" afterPath="$PROJECT_DIR$/lys/dataprocess1/preLargeMoveData.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lys/dataprocess1/preLittleMoveData.py" beforeDir="false" afterPath="$PROJECT_DIR$/lys/dataprocess1/preLittleMoveData.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lys/dataprocess1/preNoMovingData.py" beforeDir="false" afterPath="$PROJECT_DIR$/lys/dataprocess1/preNoMovingData.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lys/dataprocess1/preunrealize.py" beforeDir="false" afterPath="$PROJECT_DIR$/lys/dataprocess1/preunrealize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lys/distanceStatics/countDistanceAfterClassifer.py" beforeDir="false" afterPath="$PROJECT_DIR$/lys/distanceStatics/countDistanceAfterClassifer.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,34 +63,102 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lys/distanceStatics/countDistanceAfterFilter.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lys/dataprocess1/extractcharact.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="131" lean-forward="true" selection-start-line="131" selection-end-line="131" />
+            <state relative-caret-position="-4212">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
               <folding>
-                <element signature="e#20#29#0" expanded="true" />
+                <element signature="e#98#113#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lys/evaluate.py">
+        <entry file="file://$PROJECT_DIR$/lys/dataprocess1/extractcharact1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="-4410">
+              <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lys/dataprocess1/LocationDataset.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#47#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lys/dataprocess1/preLargeMoveData.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="356">
+              <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lys/dataprocess1/preLittleMoveData.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="35" column="35" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lys/dataprocess1/preNoMovingData.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="389">
+              <caret line="38" column="35" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lys/dataprocess1/preunrealize.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="389">
+              <caret line="36" column="35" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lys/distanceStatics/countDistanceAfterClassifer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-267">
-              <caret line="249" column="60" lean-forward="true" selection-start-line="249" selection-start-column="60" selection-end-line="249" selection-end-column="60" />
+            <state relative-caret-position="17">
+              <caret line="326" selection-start-line="326" selection-end-line="326" />
               <folding>
                 <element signature="e#14#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lys/drawimg/noMoving/noMoving.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2574">
+              <caret line="79" column="17" selection-start-line="79" selection-start-column="17" selection-end-line="79" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lys/classifier/sklearnknn.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4521">
+              <caret line="152" column="28" selection-start-line="152" selection-start-column="28" selection-end-line="152" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#52#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -94,10 +179,12 @@
       <find>draw4(&quot;计算值与真实值&quot;, kf, value, &quot;卡尔曼滤波&quot;)</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lys/drawimg/read.txt" />
         <option value="$PROJECT_DIR$/lys/dataprocess1/read.txt" />
         <option value="$PROJECT_DIR$/lys/distanceStatics/normal.py" />
         <option value="$PROJECT_DIR$/lys/mysvm/mysvm1.py" />
@@ -130,12 +217,7 @@
         <option value="$PROJECT_DIR$/lys/filter/sampleFilter.py" />
         <option value="$PROJECT_DIR$/lys/filter/examples/sine_wave.py" />
         <option value="$PROJECT_DIR$/lys/drawimg/large/largeMove.py" />
-        <option value="$PROJECT_DIR$/lys/dataprocess1/extractcharact.py" />
         <option value="$PROJECT_DIR$/lys/hyperbola.py" />
-        <option value="$PROJECT_DIR$/lys/dataprocess1/preLittleMoveData.py" />
-        <option value="$PROJECT_DIR$/lys/dataprocess1/preunrealize.py" />
-        <option value="$PROJECT_DIR$/lys/dataprocess1/preNoMovingData.py" />
-        <option value="$PROJECT_DIR$/lys/dataprocess1/preLargeMoveData.py" />
         <option value="$PROJECT_DIR$/lys/classifier/sklearnknn.py" />
         <option value="$PROJECT_DIR$/lys/classifier/mysvm1.py" />
         <option value="$PROJECT_DIR$/lys/classifier/mlpclassifier.py" />
@@ -146,16 +228,22 @@
         <option value="$PROJECT_DIR$/lys/drawimg/large/largeDifTime.py" />
         <option value="$PROJECT_DIR$/lys/distanceStatics/countDistanceAfterFilter.py" />
         <option value="$PROJECT_DIR$/lys/distanceStatics/directCountDistance.py" />
-        <option value="$PROJECT_DIR$/lys/distanceStatics/countDistanceAfterClassifer.py" />
         <option value="$PROJECT_DIR$/lys/evaluate.py" />
+        <option value="$PROJECT_DIR$/lys/dataprocess1/extractcharact.py" />
+        <option value="$PROJECT_DIR$/lys/dataprocess1/extractcharact1.py" />
+        <option value="$PROJECT_DIR$/lys/dataprocess1/preLargeMoveData.py" />
+        <option value="$PROJECT_DIR$/lys/dataprocess1/preLittleMoveData.py" />
+        <option value="$PROJECT_DIR$/lys/dataprocess1/preNoMovingData.py" />
+        <option value="$PROJECT_DIR$/lys/dataprocess1/preunrealize.py" />
+        <option value="$PROJECT_DIR$/lys/distanceStatics/countDistanceAfterClassifer.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="88" />
-    <option name="y" value="107" />
+    <option name="x" value="85" />
+    <option name="y" value="105" />
     <option name="width" value="1455" />
-    <option name="height" value="958" />
+    <option name="height" value="960" />
   </component>
   <component name="ProjectView">
     <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
@@ -199,24 +287,43 @@
           <expand>
             <path>
               <item name="fig" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="E:\PycharmProjects\fig" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="D:\fig" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
             <path>
               <item name="fig" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="E:\PycharmProjects\fig" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="D:\fig" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="lys" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="fig" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="E:\PycharmProjects\fig" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="D:\fig" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="lys" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="classifier" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="fig" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="E:\PycharmProjects\fig" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="D:\fig" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="lys" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="dataprocess1" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="fig" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="D:\fig" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="lys" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="distanceStatics" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="fig" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="D:\fig" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="lys" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="drawimg" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="fig" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="D:\fig" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="lys" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="drawimg" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="unrealize" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -225,6 +332,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ToolWindowSciView.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="E:/datacollect/picture/experiment/distance" />
@@ -266,7 +374,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.countDistanceAfterFilter">
+  <component name="RunManager" selected="Python.countDistanceAfterClassifer">
     <configuration name="countDistanceAfterClassifer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="fig" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -355,7 +463,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="littleDifTime" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="mysvm1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="fig" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -363,12 +471,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lys/drawimg/little" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lys/classifier" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lys/drawimg/little/littleDifTime.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lys/classifier/mysvm1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -378,19 +485,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.countDistanceAfterFilter" />
-      <item itemvalue="Python.littleDifTime" />
-      <item itemvalue="Python.largeDifTime" />
-      <item itemvalue="Python.directCountDistance" />
       <item itemvalue="Python.countDistanceAfterClassifer" />
+      <item itemvalue="Python.countDistanceAfterFilter" />
+      <item itemvalue="Python.directCountDistance" />
+      <item itemvalue="Python.largeDifTime" />
+      <item itemvalue="Python.mysvm1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.countDistanceAfterFilter" />
         <item itemvalue="Python.countDistanceAfterClassifer" />
+        <item itemvalue="Python.mysvm1" />
+        <item itemvalue="Python.countDistanceAfterFilter" />
         <item itemvalue="Python.directCountDistance" />
         <item itemvalue="Python.largeDifTime" />
-        <item itemvalue="Python.littleDifTime" />
       </list>
     </recent_temporary>
   </component>
@@ -436,13 +543,13 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21983914" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21928665" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info x="356" y="328" width="883" height="589" id="SciView" maximized="true" order="3" type="WINDOWED" weight="0.3304721" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4953083" weight="0.85065883" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4953083" weight="0.84985834" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5329429" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -450,7 +557,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3407494" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50469166" side_tool="true" weight="0.41288432" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.32796487" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="right" x="0" y="0" width="434" height="848" id="Documentation" order="0" visible="true" weight="0.0" />
@@ -503,22 +610,6 @@
     <SUITE FILE_PATH="coverage/fig$largeDifTime.coverage" NAME="largeDifTime Coverage Results" MODIFIED="1558583476575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lys/drawimg/large" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/sklearn/base.py" />
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/sklearn/svm/base.py" />
-    <entry file="file://$PROJECT_DIR$/lys/filter/examples/tfkalman/filters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-911">
-          <caret line="49" column="46" lean-forward="true" selection-start-line="49" selection-start-column="46" selection-end-line="49" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lys/filter/examples/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/npyio.py" />
     <entry file="file://$PROJECT_DIR$/lys/filter/Last_square_method_fit_curve.py" />
     <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/polynomial.py" />
@@ -532,51 +623,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lys/dataprocess1/test.py" />
-    <entry file="file://$PROJECT_DIR$/../hello/venv/Lib/site-packages/sklearn/neighbors/classification.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="45" column="67" lean-forward="true" selection-start-line="45" selection-start-column="67" selection-end-line="45" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../hello/venv/Lib/site-packages/matplotlib/backend_bases.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="1947" selection-start-line="1947" selection-end-line="1947" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../hello/venv/Lib/site-packages/sklearn/svm/classes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="451" column="74" selection-start-line="451" selection-start-column="63" selection-end-line="451" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lys/filter/p2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lys/filter/example1/kalman1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="899">
-          <caret line="62" column="32" selection-start-line="62" selection-start-column="31" selection-end-line="62" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lys/filter/movinAverage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../hello/venv/Lib/site-packages/scipy/optimize/minpack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-317">
-          <caret line="265" column="4" selection-start-line="265" selection-start-column="4" selection-end-line="265" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../hello/venv/Lib/site-packages/sklearn/neighbors/classification.py" />
+    <entry file="file://$PROJECT_DIR$/../hello/venv/Lib/site-packages/matplotlib/backend_bases.py" />
+    <entry file="file://$PROJECT_DIR$/../hello/venv/Lib/site-packages/sklearn/svm/classes.py" />
+    <entry file="file://$PROJECT_DIR$/../hello/venv/Lib/site-packages/scipy/optimize/minpack.py" />
     <entry file="file://$PROJECT_DIR$/lys/distanceStatics/distanceOfSeqenceClass.py" />
     <entry file="file://$PROJECT_DIR$/lys/test2.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -593,13 +643,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lys/123.py" />
-    <entry file="file://$PROJECT_DIR$/lys/filter/sampleFilter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lys/filter/examples/sine_wave.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="158">
@@ -610,27 +653,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Python/Python37/Lib/_strptime.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="323" selection-start-line="323" selection-end-line="323" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../hello/venv/Lib/site-packages/sklearn/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="264" column="8" selection-start-line="264" selection-start-column="8" selection-end-line="264" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../hello/venv/Lib/site-packages/sklearn/metrics/classification.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-686">
-          <caret line="186" column="43" selection-start-line="186" selection-start-column="37" selection-end-line="186" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python/Python37/Lib/_strptime.py" />
+    <entry file="file://$PROJECT_DIR$/../hello/venv/Lib/site-packages/sklearn/base.py" />
+    <entry file="file://$PROJECT_DIR$/../hello/venv/Lib/site-packages/sklearn/metrics/classification.py" />
     <entry file="file://$PROJECT_DIR$/lys/drawimg/large/largeMove.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-66">
@@ -641,119 +666,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lys/hyperbola.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Python/Python37/Lib/_bootlocale.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lys/dataprocess1/read.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lys/dataprocess1/preLargeMoveData.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lys/dataprocess1/preLittleMoveData.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lys/dataprocess1/preunrealize.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lys/dataprocess1/preNoMovingData.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lys/dataprocess1/extractcharact.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="127" column="4" selection-start-line="127" selection-start-column="4" selection-end-line="127" selection-end-column="4" />
-          <folding>
-            <element signature="e#98#113#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../hello/venv/Lib/site-packages/sklearn/metrics/ranking.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="396" selection-start-line="396" selection-end-line="396" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lys/classifier/sklearnknn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="152" column="28" lean-forward="true" selection-start-line="152" selection-start-column="28" selection-end-line="152" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#52#0" expanded="true" />
-            <element signature="e#776#1763#0" />
-            <element signature="e#1814#3121#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lys/classifier/mysvm1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-134">
-          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lys/classifier/mlpclassifier.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="110" column="19" lean-forward="true" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
-          <folding>
-            <element signature="e#18#36#0" expanded="true" />
-            <element signature="e#923#1998#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lys/drawimg/resultOfClassifier.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-22">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lys/drawimg/noMoving/noMoving.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="79" column="17" lean-forward="true" selection-start-line="79" selection-start-column="17" selection-end-line="79" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python/Python37/Lib/_bootlocale.py" />
+    <entry file="file://$PROJECT_DIR$/../hello/venv/Lib/site-packages/sklearn/metrics/ranking.py" />
     <entry file="file://$PROJECT_DIR$/lys/drawimg/large/largeDifTime.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-82">
@@ -771,13 +685,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lys/drawimg/unrealize/unrealizedDifTime.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="28" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lys/drawimg/noMoving/noMovDfiTime.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -785,9 +692,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lys/evaluate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/hyperbola.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/filter/p2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/filter/movinAverage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-667">
+          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/filter/sampleFilter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/drawimg/read.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/lys/distanceStatics/getDistance.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
+        <state relative-caret-position="-2972">
           <caret line="121" column="7" lean-forward="true" selection-start-line="121" selection-start-column="7" selection-end-line="125" selection-end-column="43" />
           <folding>
             <element signature="e#1217#1545#0" />
@@ -797,7 +738,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lys/distanceStatics/directCountDistance.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
+        <state relative-caret-position="45">
           <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
@@ -805,29 +746,148 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lys/distanceStatics/countDistanceAfterClassifer.py">
+    <entry file="file://$PROJECT_DIR$/lys/dataprocess1/read.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-267">
-          <caret line="249" column="60" lean-forward="true" selection-start-line="249" selection-start-column="60" selection-end-line="249" selection-end-column="60" />
-          <folding>
-            <element signature="e#14#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lys/evaluate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lys/distanceStatics/countDistanceAfterFilter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="131" lean-forward="true" selection-start-line="131" selection-end-line="131" />
+        <state relative-caret-position="3993">
+          <caret line="131" selection-start-line="131" selection-end-line="131" />
           <folding>
             <element signature="e#20#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/classifier/mysvm1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/classifier/deeplearningTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/classifier/mlpclassifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2673">
+          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+          <folding>
+            <element signature="e#18#36#0" expanded="true" />
+            <element signature="e#923#1998#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/filter/example1/kalman1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2013">
+          <caret line="62" column="32" selection-start-line="62" selection-start-column="31" selection-end-line="62" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/drawimg/resultOfClassifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2343">
+          <caret line="71" column="89" selection-start-line="71" selection-start-column="89" selection-end-line="71" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/drawimg/unrealize/unrealizedDifTime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="28" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/drawimg/noMoving/noMoving.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2574">
+          <caret line="79" column="17" selection-start-line="79" selection-start-column="17" selection-end-line="79" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/classifier/sklearnknn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4521">
+          <caret line="152" column="28" selection-start-line="152" selection-start-column="28" selection-end-line="152" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/dataprocess1/extractcharact.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4212">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#98#113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/dataprocess1/extractcharact1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4410">
+          <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/dataprocess1/LocationDataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/dataprocess1/preLargeMoveData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/dataprocess1/preLittleMoveData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="35" column="35" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/dataprocess1/preNoMovingData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="38" column="35" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/dataprocess1/preunrealize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="36" column="35" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lys/distanceStatics/countDistanceAfterClassifer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="326" selection-start-line="326" selection-end-line="326" />
+          <folding>
+            <element signature="e#14#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
